@@ -1,0 +1,32 @@
+body{
+    background-color: #071b3d;
+    border-bottom: 35px;
+    border-left: 35px;
+    border-right: 35px;
+    border-top: 0px;
+    border-color: #3dcacc;
+    border-style: solid;
+    color: white;
+    text-align: center;
+    margin: 0;
+    
+}
+
+
+p{
+    margin: 80px 200px 80px 200px;
+    
+}
+
+
+#button{
+    text-align: center;
+    background-color:orange;
+    border-radius: 15px 15px 15px 15px;
+    padding: 15px 20px;
+}
+
+input {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
